@@ -1,4 +1,4 @@
-# linkedin-message-bot
+# Message Bot - Linkedin
 
 In May 2020, I developed my first mobile application and I wanted to send my Linkedin contacts a message to let them know. 
 
