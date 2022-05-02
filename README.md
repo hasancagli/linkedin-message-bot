@@ -9,5 +9,7 @@ After that I decided to create a bot that can message everyone with just one cli
 ## To run the code
 
 Please enter your linkedin profile's username and password to the "logininfo.py"
+
 You can adjust the message you want to send from "new.py line 90"
+
 Then, you can run the code with "python new.py"
